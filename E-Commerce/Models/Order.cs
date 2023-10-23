@@ -8,8 +8,8 @@ namespace MVC_Project.Models
 {
     public enum OrderStatus
     {
-        Pending,
         Shipped,
+        Pending,
         Delivered,
         Canceled
     }
